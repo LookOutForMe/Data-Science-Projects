@@ -1,7 +1,6 @@
 
 # Iris Flower Classification
 
-![Iris Flowers](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_versicolor_3.jpg/220px-Iris_versicolor_3.jpg)
 
 ## Table of Contents
 - [About](#about)
