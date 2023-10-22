@@ -60,7 +60,7 @@ To use this project, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd used-car-price-prediction
+   cd "Used Car Price Prediction"
    ```
 
 3. Create a virtual environment (optional but recommended):
